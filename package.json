@@ -1,0 +1,23 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "mean stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooja-523/mean-stack.git"
+  },
+  "author": "Pooja Daundkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pooja-523/mean-stack/issues"
+  },
+  "homepage": "https://github.com/pooja-523/mean-stack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
